@@ -10,7 +10,6 @@ body{
 
 .card{
     width: 90%;
-    height: 35rem;
     max-width: 30rem;
     background: linear-gradient(135deg, #00feba, #5b548a);
     color: snow;
@@ -23,7 +22,7 @@ body{
 
 .search{
     width: 95%;
-    margin: 1rem auto 0;
+    margin: 1rem auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -51,6 +50,10 @@ body{
     height: 3rem;
     border-radius: 50%;
     cursor: pointer;
+}
+
+.weather{
+    display: none;
 }
 
 .weatherIcon{
@@ -90,4 +93,12 @@ body{
 
 .humidityDetails, .windDetails{
     font-size: 1.5rem;
+}
+
+.error{
+    text-align: left;
+    padding: 2rem;
+    color: rgb(199, 3, 3);
+    font-size: 1.5rem;
+    display: none;
 }
