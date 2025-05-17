@@ -35,7 +35,7 @@ Check out the live version here [Live Demo](https://dinesh-bazgain.github.io/Wea
 - A modern web browser (Chrome, Firefox, etc.)  
 - Internet connection
 
-### 🏃 How to Run
+### How to Run
 
 - Clone the repo: => git clone https://github.com/dinesh-bazgain/Weather-App.git
 - Open the index.html file in your browser (no server needed!)
@@ -53,8 +53,6 @@ Check out the live version here [Live Demo](https://dinesh-bazgain.github.io/Wea
 
 ### Future Improvements
 - Add hourly and weekly forecasts
-- Auto-detect user location for default weather
-- Add loading spinner and better error handling
 - Dark/light mode toggle
 ---
 
