@@ -65,7 +65,7 @@ MIT License © 2025 Dinesh Bajgain
 
 ## Contact
 
-Feel free to reach out at [dinesh.bazgain@gmail.com] or open an issue on GitHub!
+Feel free to reach out to me via [email](dinesh.bazgain@gmail.com) or open an issue on GitHub!
 
 ---
 
